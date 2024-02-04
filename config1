@@ -1,0 +1,4 @@
+Host git-codecommit.*.amazonaws.com
+User XXXXXXXXXXXXXXXX
+IdentityFile ~/.ssh/id_xdr_rsa
+StrictHostKeyChecking no
