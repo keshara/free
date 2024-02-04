@@ -1,4 +1,0 @@
-Host git-codecommit.*.amazonaws.com
-User APKAWO3SAMDQDWEAR25V
-IdentityFile ~/.ssh/id_xdr_rsa
-StrictHostKeyChecking no
